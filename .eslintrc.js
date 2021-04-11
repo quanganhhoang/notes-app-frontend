@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['google', 'plugin:react/recommended', 'plugin:jest/recommended'],
+  extends: ["eslint:recommended", "google"],
   parser: 'babel-eslint',
   parserOptions: {
     sourceType: 'module',
